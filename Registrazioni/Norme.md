@@ -2,7 +2,7 @@
 title: Norme e leggi
 description: Norme e leggi
 published: true
-date: 2021-08-27T18:58:53.975Z
+date: 2021-08-27T19:02:27.928Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-27T14:50:34.421Z
@@ -23,30 +23,23 @@ wbsDiagram {
     LineColor green
   }
   :depth(0) {
-      // will target root node
-      BackgroundColor Yellow
+      BackgroundColor white
       RoundCorner 0
-      LineColor BLACK
-      // Because we are targetting depth(0) for everything, border and connector for level 0 will be red
+      LineColor black
   }
-  arrow {
-    :depth(2) {
-      // Targetting only connector between Mexico-Chihuahua and USA-Texas
+    :depth(1) {
+      BackgroundColor white
       LineColor blue
       LineStyle 0
-      LineThickness .5
-    }
+      LineThickness 1.5
   }
-  node {
     :depth(2) {
       LineStyle 0
-      LineThickness 2.5
-    }
+            LineColor blue
+      LineThickness 1.5
+			 BackgroundColor white
+
   }
-  boxless {
-    // will target boxless node with '_'
-    FontColor darkgreen
-  }  
 }
 </style>
 
