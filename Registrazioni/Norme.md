@@ -2,7 +2,7 @@
 title: Norme e leggi
 description: Norme e leggi
 published: true
-date: 2021-08-27T19:02:27.928Z
+date: 2021-08-27T19:14:53.553Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-27T14:50:34.421Z
@@ -11,6 +11,10 @@ dateCreated: 2021-08-27T14:50:34.421Z
 ```plantuml
 @startwbs
 skinparam defaultTextAlignment center
+  skinparam   distribute as tree
+
+
+
 
 <style>
 wbsDiagram {
@@ -42,23 +46,24 @@ wbsDiagram {
   }
 }
 </style>
-
-* <size:15><b>Direzione</b></size> \nFrancesco Mescalchin
-** <size:15><b>Amministrazione</b></size> \nMichela Zorzi
-** <size:15><b>Sistema informatico</b></size> \nMarco Mescalchin
-** <size:15><b>Rspp</b></size> \nMario Ariotti
-** <size:15><b>Medico Competente</b></size> \nBernardo Bonato
-** <size:15><b>Acquisti</b></size> \nGiorgia Cattapan
-** <size:15><b>Qualità tempi metodi</b></size> \nManuel Pasquetto
-** <size:15><b>Pianificazione produzione</b></size> \nFrancesco Cinetto
-** <size:15><b>Produzione</b></size> \nRiccardo Mescalchin
-*** <size:15><b>Piegatura</b></size> \nLuca Demo
-*** <size:15><b>Fresatura</b></size> \nMirko Martini
-*** <size:15><b>Taglio laser</b></size> \nManuel Pasquetto
-*** <size:15><b>Saldatura</b></size> \nGabriel Badiu
-*** <size:15><b>Attrezzeria</b></size> \nSimone Zoccarato
-*** <size:15><b>Stampaggio</b></size> \nMichele Piccini
-*** <size:15><b>Tornitura</b></size> \nClaudio Martini
+* <size:15><b>DIREZIONE</b></size> \nFrancesco Mescalchin
+** <size:15><b>AMMINISTRAZIONE</b></size> \nLuciana Bragagnolo \nMichela Zorzi
+** <size:15><b>SISTEMA INFORMATICO</b></size> \nMarco Mescalchin
+** <size:15><b>RSPP</b></size> \nMario Ariotti
+** <size:15><b>MEDICO COMPETENTE</b></size> \nBernardo Bonato
+** <size:15><b>ACQUISTI</b></size> \nGiorgia Cattapan
+** <size:15><b>QUALITÀ TEMPI METODI</b></size> \nManuel Pasquetto
+** <size:15><b>PIANIFICAZIONE</b></size> \nFrancesco Cinetto
+** <size:15><b>LOGISTICA</b></size> \n---
+** <size:15><b>UFFICIO TECNICO</b></size> \nMirko Mescalchin \nManuel Pasquetto
+** <size:15><b>PRODUZIONE</b></size> \nRiccardo Mescalchin
+*** <size:15><b>PIEGATURA</b></size> \nLuca Demo
+*** <size:15><b>FRESATURA</b></size> \nMirko Martini
+*** <size:15><b>TAGLIO LASER</b></size> \nManuel Pasquetto
+*** <size:15><b>SALDATURA</b></size> \nGabriel Badiu
+*** <size:15><b>ATTREZZERIA</b></size> \nSimone Zoccarato
+*** <size:15><b>STAMPAGGIO</b></size> \nMichele Piccini
+*** <size:15><b>TORNITURA</b></size> \nClaudio Martini
 @endwbs
 
 ```
