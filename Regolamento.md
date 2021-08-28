@@ -2,7 +2,7 @@
 title: Regolamento
 description: 
 published: true
-date: 2021-08-28T05:34:27.227Z
+date: 2021-08-28T05:34:47.124Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-28T05:27:05.204Z
@@ -38,7 +38,7 @@ L'azienda inoltre è impegnata a mettere a disposizione del lavoratore quanto oc
 
 L'azienda deve infine adottare tutte le misure che secondo la particolarità del lavoro e la tecnica richiesta per le lavorazioni, siano necessarie a tutelare l’integrità fisica del lavoratore; a tale scopo l'azienda si impegna a portare a conoscenza dei lavoratori ed a far rispettare le disposizioni di propria emanazione sulla prevenzione degli infortuni.
 
-##        ORGANIGRAMMA
+## ORGANIGRAMMA
 
 In bacheca è esposto l’organigramma aziendale, da Gennaio 2019 è stata inserita la figura del Team Leader, tale figura ha il compito di organizzare e supervisionare il lavoro del proprio gruppo di lavoro. 
 
