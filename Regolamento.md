@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Regolamento
 description: 
 published: true
-date: 2021-08-28T05:32:02.182Z
+date: 2021-08-28T05:34:27.227Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-28T05:27:05.204Z
