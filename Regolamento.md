@@ -2,27 +2,21 @@
 title: Untitled Page
 description: 
 published: true
-date: 2021-08-28T05:29:32.327Z
+date: 2021-08-28T05:32:02.182Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-28T05:27:05.204Z
 ---
 
 # Regolamento e Codice disciplinare
----
 ## FONTI NORMATIVE DI RIFERIMENTO
-Le fonti normative da cui trae origine la disciplina del rapporto di lavoro dipendente della Società e che contengono gli obblighi che il dipendente è tenuto a rispettare sono:  
-
+Le fonti normative da cui trae origine la disciplina del rapporto di lavoro dipendente della Società e che contengono gli obblighi che il dipendente è tenuto a rispettare sono:
 1.  il Codice Civile (ed in particolare, gli articoli 2104, 2105 e 2106); 
 2.  la Legge 300 del 1970 (Statuto dei Diritti dei Lavoratori); 
 3.  il Contratto Collettivo Nazionale di Lavoro (Confapi) 29/07/2013 per i lavoratori addetti alla piccola e media industria metalmeccanica ed alla installazione di impianti (di seguito, il “CCNL”).
-
 ## OBBLIGHI GENERALI DEL PERSONALE
-
 Il lavoratore deve tenere un contegno rispondente ai doveri inerenti l'esplicazione delle mansioni affidategli mantenendo rapporti di educazione sia verso i compagni di lavoro che nei confronti dei superiori e dei subordinati: il lavoratore è subordinato ai propri superiori con i quali deve collaborare.
-
 In particolare ogni lavoratore è tenuto al rispetto di quanto segue:
-
 1.  osservare le disposizioni del presente contratto e quelle impartite dai superiori;
 2.  osservare l'orario di lavoro;
 3.  dedicare attività assidua e diligente al disbrigo delle mansioni assegnate;
