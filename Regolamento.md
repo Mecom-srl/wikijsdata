@@ -2,18 +2,15 @@
 title: Untitled Page
 description: 
 published: true
-date: 2021-08-28T05:27:47.205Z
+date: 2021-08-28T05:29:32.327Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-28T05:27:05.204Z
 ---
 
-Regolamento e Codice disciplinare
-
+# Regolamento e Codice disciplinare
 ---
-
-## FONTI NORMATIVE DI RIFERIMENTO 
-
+## FONTI NORMATIVE DI RIFERIMENTO
 Le fonti normative da cui trae origine la disciplina del rapporto di lavoro dipendente della Società e che contengono gli obblighi che il dipendente è tenuto a rispettare sono:  
 
 1.  il Codice Civile (ed in particolare, gli articoli 2104, 2105 e 2106); 
