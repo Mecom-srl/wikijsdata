@@ -1,8 +1,8 @@
 ---
-title: Norme e leggi
+title: Organigramma
 description: Norme e leggi
 published: true
-date: 2021-08-27T19:14:53.553Z
+date: 2021-08-30T16:44:27.271Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-27T14:50:34.421Z
